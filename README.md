@@ -2,7 +2,8 @@
 
 🎯 Bu proje, Leet Code üzerinde karşılaştığım "Maximal Rectangle" problemini çözmek için geliştirilmiştir. Bu problem, 0 ve 1'lerden oluşan bir matrisin içinde yalnızca 1'lerden oluşan en büyük dikdörtgeni bulmayı gerektiriyor. Bu tür problemler, optimizasyon ve algoritma geliştirme açısından harika bir egzersizdir.
 
-🔗 Leetcode.com üzerinden problemi incelemek isterseniz: [https://leetcode.com/problems/maximal-rectangle/](https://leetcode.com/problems/maximal-rectangle/).
+🔗 Leetcode.com üzerinden problemi incelemek isterseniz: [https://leetcode.com/problems/maximal-rectangle/](https://leetcode.com/problems/maximal-rectangle/). 
+
 📈 Sunmuş olduğum çözüme ait, detaylı istatistikler: [https://leetcode.com/problems/maximal-rectangle/submissions/1339070305](https://leetcode.com/problems/maximal-rectangle/submissions/1339070305) 
 
 ## Özellikler
